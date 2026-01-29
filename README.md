@@ -12,8 +12,13 @@ All notes are written **in Chinese**.
 
 Courses covered include:
 
-- **STAT201B — Introduction to Statistics at an Advanced Level** *(in progress)*  
-- **STAT243 — Introduction to Statistical Computing** *(in progress)*  
+- **STAT 210B — Theoretical Statistics** *(in progress)*  
+- **STAT 238 — Bayesian Statistics** *(in progress)*  
+- **STAT 248 — Analysis of Time Series** *(in progress)*  
+- **STAT 230A — Linear Models** *(in progress)*  
+- **STAT 243 — Introduction to Statistical Computing** 
+- **STAT 201B — Introduction to Statistics at an Advanced Level**
+- **STAT 201A — Introduction to Probability at an Advanced Level**
 
 ---
 
