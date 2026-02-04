@@ -8,7 +8,7 @@ This repository contains some of my personal course notes from **UC Berkeley** a
 
 The notes in this repository are all **Obsidian digital notes**, exported and stored as `.pdf` files.  
 
-All notes are written **in Chinese**.
+All notes are written **in Chinese** (except for STAT 214 Data Analysis and Machine Learning for Real-World Decision Making).
 
 Courses covered include:
 
@@ -16,6 +16,7 @@ Courses covered include:
 - **STAT 238 — Bayesian Statistics** *(in progress)*  
 - **STAT 248 — Analysis of Time Series** *(in progress)*  
 - **STAT 230A — Linear Models** *(in progress)*  
+- **STAT 214 — Data Analysis and Machine Learning for Real-World Decision Making** *(in progress)*  
 - **STAT 243 — Introduction to Statistical Computing** 
 - **STAT 201B — Introduction to Statistics at an Advanced Level**
 - **STAT 201A — Introduction to Probability at an Advanced Level**
